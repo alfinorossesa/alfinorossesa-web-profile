@@ -72,7 +72,7 @@ export default function Home() {
   return (
     <>
       <nav className={styles.nav}>
-        <a href="#home" className={styles.navMark}>
+        <a href="https://alfinorossesa.github.io/" className={styles.navMark}>
           alfino.rossesa/
         </a>
         <ul className={styles.navLinks}>
